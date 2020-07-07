@@ -5,3 +5,4 @@ add by child2
 child3
 child4
 child5
+add by parent child6
