@@ -1,2 +1,3 @@
 ichild
 child2
+add by parent
