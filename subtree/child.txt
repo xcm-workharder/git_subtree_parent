@@ -2,3 +2,4 @@ ichild
 child2
 add by parent
 add by child2
+child3
